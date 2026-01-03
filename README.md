@@ -2,9 +2,6 @@
 📊 Egator - Responsive Admin Dashboard
 A modern, responsive, and fully functional Admin Dashboard template built using pure HTML, CSS, and Vanilla JavaScript. This dashboard features a dark/light mode toggle, responsive sidebar navigation, and dynamic content rendering for managing orders, customers, and analytics.
 
-🚀 Demo
-
-https://rohith19.netlify.app/
 
 ✨ Features
 Responsive Design: Fully adaptive layout using CSS Grid and Flexbox. Works seamlessly on Desktops, Tablets, and Mobile devices.
@@ -92,3 +89,8 @@ Run the project:
 Simply open the index.html file in your preferred web browser (Chrome, Firefox, Edge, etc.).
 
 Optional: For the best experience, use the "Live Server" extension in VS Code.
+
+
+🚀 Demo
+
+https://rohith19.netlify.app/
