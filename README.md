@@ -73,15 +73,21 @@ Since this project uses vanilla web technologies, no build tools or package mana
 
 Clone the repository:
 
+
+
 Bash
 
 git clone https://github.com/your-username/egator-dashboard.git
 Navigate to the project folder:
 
+
+
 Bash
 
 cd egator-dashboard
 Run the project:
+
+
 
 Simply open the index.html file in your preferred web browser (Chrome, Firefox, Edge, etc.).
 
