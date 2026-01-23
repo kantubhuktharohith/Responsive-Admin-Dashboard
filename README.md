@@ -38,3 +38,20 @@ No frameworks. No dependencies. Fast and lightweight.
 
 ## 📂 Project Structure
 
+
+---
+
+## ⬇️ Download
+
+### Option 1: Download ZIP (Recommended)
+
+1. Click **Code**
+2. Select **Download ZIP**
+3. Extract the files
+4. Open `index.html` in your browser
+
+### Option 2: Clone with Git
+
+```bash
+git clone https://github.com/your-username/responsive-admin-dashboard.git
+cd responsive-admin-dashboard
