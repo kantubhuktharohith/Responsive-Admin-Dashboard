@@ -59,6 +59,8 @@ No frameworks. No dependencies. Fast and lightweight.
 ```bash
 git clone https://github.com/your-username/responsive-admin-dashboard.git
 cd responsive-admin-dashboard
+```
+
 🎯 Use Cases
 
 Admin panels
