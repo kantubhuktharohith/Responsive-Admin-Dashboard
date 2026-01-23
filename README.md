@@ -77,3 +77,17 @@ Portfolio projects
 📸 Screenshots
 
 ![image alt](https://github.com/kantubhuktharohith/Responsive-Admin-Dashboard/blob/02de03815365fd82e17da23e918ecc764dd69c32/Screenshot%202026-01-23%20220748.png)
+
+🔧 Customization
+
+Edit colors in :root inside style.css
+
+Add or remove sections in index.html
+
+Modify data logic in index.js
+
+Everything is intentionally simple and readable.
+
+📄 License
+
+Free to use for personal and commercial projects.
