@@ -9,8 +9,7 @@ This project focuses on clean UI, smooth navigation, and practical dashboard fea
 
 ## 🚀 Live Preview
 
-👉 **Download & Run Locally** (no build tools required)  
-👉 Works directly in the browser
+https://rohith19.netlify.app/
 
 ---
 
