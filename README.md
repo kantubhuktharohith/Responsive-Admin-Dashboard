@@ -1,96 +1,41 @@
-# Responsive-Admin-Dashboard
-📊 Egator - Responsive Admin Dashboard
-A modern, responsive, and fully functional Admin Dashboard template built using pure HTML, CSS, and Vanilla JavaScript. This dashboard features a dark/light mode toggle, responsive sidebar navigation, and dynamic content rendering for managing orders, customers, and analytics.
+# 📊 Responsive Admin Dashboard
 
+A modern, fully responsive admin dashboard built with **HTML**, **CSS**, and **Vanilla JavaScript**.  
+Designed for clarity, speed, and real-world usability.
 
-✨ Features
-Responsive Design: Fully adaptive layout using CSS Grid and Flexbox. Works seamlessly on Desktops, Tablets, and Mobile devices.
+This project focuses on clean UI, smooth navigation, and practical dashboard features like orders, analytics, customers, and theme switching.
 
-Theme Customization: Integrated Dark Mode / Light Mode toggler with persistent state styling.
+---
 
-Dynamic Navigation: Single-Page-Application (SPA) feel. Clicking sidebar links updates the main content area without refreshing the page.
+## 🚀 Live Preview
 
-Data Visualization:
+👉 **Download & Run Locally** (no build tools required)  
+👉 Works directly in the browser
 
-SVG-based circular progress bars for Sales, Expenses, and Income.
+---
 
-Mock data integration for "Recent Orders" and "All Orders" tables.
+## ✨ Features
 
-Interactive Sidebar:
+- 📱 Fully responsive layout (desktop, tablet, mobile)
+- 🌗 Light / Dark mode toggle
+- 🧭 Sidebar navigation with active states
+- 📦 Orders & Products management UI
+- 📈 Analytics and sales widgets
+- 👥 Customers & Messages sections
+- 🧩 Clean, modular structure
+- ⚡ Pure HTML, CSS, JavaScript (no frameworks)
 
-Collapsible sidebar for mobile views.
+---
 
-Active state highlighting for current sections.
+## 🛠️ Tech Stack
 
-Clean UI/UX: Uses the Poppins font family and Material Icons Sharp for a polished look.
+- **HTML5**
+- **CSS3** (CSS Variables, Grid, Flexbox)
+- **JavaScript (ES6)**
 
-🛠 Technologies Used
-HTML5: Semantic structure (Using <aside>, <main>, <section>).
+No frameworks. No dependencies. Fast and lightweight.
 
-CSS3:
+---
 
-CSS Variables (:root) for easy color management.
+## 📂 Project Structure
 
-Media Queries for responsiveness (Mobile < 768px, Tablet < 1200px).
-
-Grid & Flexbox for layout.
-
-Keyframes for smooth fade-in animations.
-
-JavaScript (ES6+):
-
-DOM Manipulation.
-
-Event Listeners.
-
-Array methods (map, slice, forEach) to render table data dynamically.
-
-Icons: Google Material Icons.
-
-Fonts: Google Fonts (Poppins).
-
-
-📂 Project Structure
-Plaintext
-
-Egator-Dashboard/
-│
-├── index.html          # Main HTML structure
-├── style.css           # Global styles, variables, and media queries
-├── index.js            # Logic for navigation, theme toggle, and data rendering
-├── images/             # Folder for profile pics and logos
-│   ├── logo.png
-│   ├── profile-1.jpg
-│   └── ...
-└── README.md           # Project documentation
-
-
-🏁 Getting Started
-Since this project uses vanilla web technologies, no build tools or package managers (like npm) are required.
-
-Clone the repository:
-
-
-
-Bash
-
-git clone https://github.com/your-username/egator-dashboard.git
-Navigate to the project folder:
-
-
-
-Bash
-
-cd egator-dashboard
-Run the project:
-
-
-
-Simply open the index.html file in your preferred web browser (Chrome, Firefox, Edge, etc.).
-
-Optional: For the best experience, use the "Live Server" extension in VS Code.
-
-
-🚀 Demo
-
-https://rohith19.netlify.app/
