@@ -38,6 +38,10 @@ No frameworks. No dependencies. Fast and lightweight.
 
 ## 📂 Project Structure
 
+├── index.html
+├── style.css
+├── index.js
+└── images/
 
 ---
 
