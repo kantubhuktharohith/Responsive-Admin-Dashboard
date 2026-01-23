@@ -76,4 +76,4 @@ Portfolio projects
 
 📸 Screenshots
 
-![image alt](
+![image alt](https://github.com/kantubhuktharohith/Responsive-Admin-Dashboard/blob/02de03815365fd82e17da23e918ecc764dd69c32/Screenshot%202026-01-23%20220748.png)
